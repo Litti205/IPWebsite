@@ -10,7 +10,6 @@ assignees: ''
 **Beschreibe den Fehler**
 
 **Beschreibe wie es zu dem Fehler kam**
-Steps to reproduce the behavior:
 
 
 
